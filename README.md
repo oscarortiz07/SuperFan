@@ -1,0 +1,1 @@
+A responsive pokemon simulator game, click pokemon to catch them, view your inventory to see which pokemon you have caught, and click on them in your inventory to see stats on the pokemon you have caught!
